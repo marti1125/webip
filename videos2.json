@@ -1,0 +1,77 @@
+{
+
+    "camaras":[
+        {
+            "titulo": "Camara 1",
+            "descripcion": "UNIVERSITARIA CON TOMAS VALLE - LADO DERECHO EN RUTA HACIA EL CALLAO",
+            "latitud": "-12.012103520075852",
+            "longitud": "-77.07967042922974",
+            "url": "http://201.234.114.154/hls/hls_cam01/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 2",
+            "descripcion": "MARCO POLO - ESPALDA DE FIORI - FRENTE A LA IGLESIA MORMONA",
+            "latitud": "-12.010109669072643",
+            "longitud": "-77.05707550048828",
+            "url": "http://201.234.114.154/hls/hls_cam02/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 3",
+            "descripcion": "HABICH Y TUPAC AMARU, BERMA CENTRAL FRENTE A LA UNI",
+            "latitud": "-12.023268812801778",
+            "longitud": "-77.0504879951477",
+            "url": "http://201.234.114.154/hls/hls_cam03/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 4",
+            "descripcion": "ZARUMILLA CON ALARCON, CRUCE DE AUXILIAR CON LA CARRETERA",
+            "latitud": "-12.033456388338173",
+            "longitud": "-77.0525586605072",
+            "url": "http://201.234.114.154/hls/hls_cam04/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 5",
+            "descripcion": "OVALO HABICH HACIA EL LADO DE LA MUNICIPALIDAD",
+            "latitud": "-12.029406028584733",
+            "longitud": "-77.05825567245483",
+            "url": "http://201.234.114.154/hls/hls_cam05/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 6",
+            "descripcion": "AV PERU CUADRA 40",
+            "latitud": "-12.029837650115587",
+            "longitud": "-77.0931887626648",
+            "url": "http://201.234.114.154/hls/hls_cam06/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 7",
+            "descripcion": "UNIVERSITARIA CON AV PERU",
+            "latitud": "-12.032146149084559",
+            "longitud": "-77.07803964614868",
+            "url": "http://201.234.114.154/hls/hls_cam07/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 8",
+            "descripcion": "PLAZA CENTRAL DE SAN MARTIN",
+            "latitud": "-12.030719079334046",
+            "longitud": "-77.09142923355103",
+            "url": "http://201.234.114.154/hls/hls_cam08/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 9",
+            "descripcion": "AV PERU CON CANADA (DUE\u00d1AS) COSTADO DEL CASINO",
+            "latitud": "-12.031934887297039",
+            "longitud": "-77.06499338150024",
+            "url": "http://201.234.114.154/hls/hls_cam09/playlist.m3u8"
+        },
+        {
+            "titulo": "Camara 10",
+            "descripcion": "AV PERU CON RIO BAMBA ALTURA DE LA POLLERIA CON LA CASA",
+            "latitud": "-12.033204554277859",
+            "longitud": "-77.05822348594666",
+            "url": "http://201.234.114.154/hls/hls_cam10/playlist.m3u8"
+        }
+        
+    ]
+
+}
